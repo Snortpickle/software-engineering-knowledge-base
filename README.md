@@ -13,11 +13,9 @@ The goal of this repository is to keep important knowledge organized and easy to
 
 ## Repository Structure
 
-notes/ – general notes about software engineering concepts and technologies  
-
-how-to/ – practical step-by-step guides for solving specific tasks  
-
-decisions/ – documentation of important technical or architectural decisions
+- 📁 [notes](./notes) — general notes about software engineering concepts and technologies  
+- 📁 [how-to](./how-to) — practical step-by-step guides for solving specific tasks  
+- 📁 [decisions](./decisions) — documentation of important technical or architectural decisions
 
 ## Purpose
 
